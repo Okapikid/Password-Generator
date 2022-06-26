@@ -8,4 +8,4 @@ If an invalid length is selected, users are prompted to choose a valid password 
 <br>
 If no character types are selected, the user is prompted to choose at least one character type.<br>
 
-Here is a screenshot of the project: (./Assets/Images/screenShot.png)
+Here is a screenshot of the project: ![Password generator with window prompt visible.](./Assets/Images/screenShot.png)
