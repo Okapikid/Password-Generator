@@ -7,5 +7,7 @@ Once a user clicks the "Generate Password" button, they must select a password l
 If an invalid length is selected, users are prompted to choose a valid password length<br>
 <br>
 If no character types are selected, the user is prompted to choose at least one character type.<br>
+<br>
+The deployed application can be found here: [link to deployed application](https://okapikid.github.io/Password-Generator/)
 
 Here is a screenshot of the project: ![Password generator with window prompt visible.](./Assets/Images/screenShot.png)
